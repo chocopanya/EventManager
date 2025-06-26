@@ -1,0 +1,5 @@
+C:\Users\1\source\repos\System_Manager\System_Manager\obj\Debug\System_Manager.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\System_Manager\System_Manager\obj\Debug\SelectWin.baml
+C:\Users\1\source\repos\System_Manager\System_Manager\obj\Debug\SelectWin.g.cs
+C:\Users\1\source\repos\System_Manager\System_Manager\obj\Debug\App.g.cs
+C:\Users\1\source\repos\System_Manager\System_Manager\obj\Debug\System_Manager_MarkupCompile.cache

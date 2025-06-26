@@ -1,0 +1,13 @@
+﻿<Window x:Class="System_Manager.SelectWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="System Manager - Выбор действия" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="300">
+            <Button Content="Просмотр аккаунта" Click="AccountButton_Click" Margin="0,0,0,20" Padding="20,10"/>
+            <Button Content="Купить билет" Click="BuyTicketButton_Click" Margin="0,0,0,20" Padding="20,10"/>
+            <Button Content="Мои мероприятия" Click="MyEventsButton_Click" Padding="20,10"/>
+        </StackPanel>
+    </Grid>
+</Window>
